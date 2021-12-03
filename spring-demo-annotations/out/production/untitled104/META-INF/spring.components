@@ -1,0 +1,6 @@
+com.springdemo.DatabaseFortuneService=org.springframework.stereotype.Component
+com.springdemo.HappyFortuneService=org.springframework.stereotype.Component
+com.springdemo.RandomFortuneService=org.springframework.stereotype.Component
+com.springdemo.RestFortuneService=org.springframework.stereotype.Component
+com.springdemo.SportConfig=org.springframework.stereotype.Component
+com.springdemo.TennisCoach=org.springframework.stereotype.Component
