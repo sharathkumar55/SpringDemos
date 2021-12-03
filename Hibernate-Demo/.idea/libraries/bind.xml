@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bind">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/jaxb-api-2.0/javax/xml/bind" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
