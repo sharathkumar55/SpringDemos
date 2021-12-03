@@ -1,0 +1,13 @@
+
+]	java:S1258"<This block of commented-out lines of code should be removed.(”‡×úøÿÿÿÿ8‰‘ï…Õ/
+ˆ
+java:S1128"fRemove this unused import 'org.springframework.web.context.support.ContextExposingHttpServletRequest'.(Íß±Øÿÿÿÿÿ8‹‘ï…Õ/
+{
+java:S1128	"^Remove this unused import 'org.springframework.web.context.support.HttpRequestHandlerServlet'.(şº§†8‹‘ï…Õ/
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8‹‘ï…Õ/
+f
+java:S1192"KDefine a constant instead of duplicating this literal "helloWorld" 3 times.(•ŠÈèÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô¤Ò‡
+`
+java:S2259("EA "NullPointerException" could be thrown; "theName" is nullable here.(œ‡øøşÿÿÿÿ

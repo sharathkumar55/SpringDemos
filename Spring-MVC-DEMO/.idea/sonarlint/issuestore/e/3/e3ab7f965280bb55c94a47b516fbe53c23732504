@@ -1,0 +1,5 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(—€æ8ÏªßªÕ/
+N
+java:S1128",Remove this unused import 'java.io.Console'.(æÅªıÿÿÿÿ8¿¾«Ö/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô¤Ò‡
